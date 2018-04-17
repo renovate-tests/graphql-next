@@ -157,9 +157,9 @@
   version "9.4.7"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-9.4.7.tgz#57d81cd98719df2c9de118f2d5f3b1120dcd7275"
 
-"@types/ramda@0.25.20":
-  version "0.25.20"
-  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.25.20.tgz#d95056b3ef221bc05993fa9f4e6a22031a033936"
+"@types/ramda@0.25.22":
+  version "0.25.22"
+  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.25.22.tgz#394e3aebcce54cba457f837b97ded2d6882015db"
 
 "@types/serve-static@*":
   version "1.13.1"
@@ -4432,16 +4432,7 @@ pg-pool@~2.0.3:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/pg-pool/-/pg-pool-2.0.3.tgz#c022032c8949f312a4f91fb6409ce04076be3257"
 
-pg-promise@8.2.1:
-  version "8.2.1"
-  resolved "https://registry.yarnpkg.com/pg-promise/-/pg-promise-8.2.1.tgz#af11f4009a8d9d0e0d37d2915a5e7e0f66865838"
-  dependencies:
-    manakin "0.5.1"
-    pg "7.4.1"
-    pg-minify "0.5.4"
-    spex "2.0.2"
-
-pg-promise@^8.2.1:
+pg-promise@8.2.2, pg-promise@^8.2.1:
   version "8.2.2"
   resolved "https://registry.yarnpkg.com/pg-promise/-/pg-promise-8.2.2.tgz#079a71eb358ef7f27f78f4bc3653a1f4bb9266e6"
   dependencies:
